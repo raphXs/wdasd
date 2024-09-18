@@ -31,18 +31,7 @@ const App = () => {
 
   return (
       <div className="app">
-          {/* Header */}
-          <header className="header">
-              <h1>Apple Store</h1>
-              <nav>
-                  <ul>
-                      <li><a href="#products">Produk</a></li>
-                      <li><a href="#about">Tentang</a></li>
-                      <li><a href="#contact">Kontak</a></li>
-                  </ul>
-              </nav>
-          </header>
-
+        
           {/* Hero Section */}
           <section className="hero">
               <h2>Temukan iPhone Impianmu</h2>
