@@ -32,14 +32,12 @@ const App = () => {
   return (
       <div className="app">
         
-          {/* Hero Section */}
           <section className="hero">
               <h2>Temukan iPhone Impianmu</h2>
               <b><p>Promo spesial untuk iPhone terbaru. Jangan lewatkan!</p></b>
               <a href="#products" className="cta-button">Belanja Sekarang</a>
           </section>
 
-          {/* Product Section */}
           <section className="products" id="products">
               <h2>Produk Terbaru</h2>
               <div className="product-list">
@@ -55,7 +53,6 @@ const App = () => {
               </div>
           </section>
 
-          {/* Footer */}
           <footer className="footer">
               <p>&copy; 2024 Apple Store. All Rights Reserved.</p>
               <nav>
