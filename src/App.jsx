@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css'
+import Header from './component/Header'
 import iphone13ProMax from './Images/iphone13promax.jpeg';
 import iphone12 from './Images/iphone12.jpeg';
 import iphoneSE from './Images/iphoneSE.jpeg';
