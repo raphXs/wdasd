@@ -35,8 +35,6 @@ const App = () => {
         
           <div>
             <Header />
-            <h1>Selamat datang di Apple Store</h1>
-            <p>Pilih iPhone impianmu!</p>
         </div>
 
         
